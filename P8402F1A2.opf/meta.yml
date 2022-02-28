@@ -1,0 +1,28 @@
+id: P8402F1A2
+initial_creation_type: input
+source_metadata:
+  title: Maṇḍala Offering
+  language: en
+  description: 'A series of texts related to the practice of maṇḍala offering (maṇḍal
+    ’bul ba), symbolizing the gift of the entire universe according to Buddhist cosmology:'
+  volume:
+    e5ce3689e77b47afb9a83c7e755fcb0d:
+      title: Thirty-Seven Point Maṇḍala Offering
+      parent: Offering
+    2c59d4f0503342729bc41a5c46d63dc8:
+      title: Concise Seven-Heap Maṇḍala Offering
+      parent: Offering
+    f0c4a297a953430f956d038c288afef5:
+      title: Short Maṇḍala Offering
+      parent: Offering
+    760d1d02c27342c4b807a84a4df3526d:
+      title: Maṇḍala Offering from the Tradition of Jatsön Nyingpo
+      parent: Offering
+    7529907fb6644256a57f52438a00cb2c:
+      title: Maṇḍala Offering from Longsal Dorje Nyingpo
+      parent: Offering
+    b907a090b819481c95e65dd5c1d4f247:
+      title: Ngöndro Compendium—Part 4—Mandala Offering
+      parent: Commentaries
+created_at: '2022-03-01T04:33:51.830831'
+last_modified_at: '2022-03-01T04:33:51.830837'
